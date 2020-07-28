@@ -1,3 +1,4 @@
+// @author Thad Shinno
 #include "node.h"
 
 // single link node has a value and a next node
